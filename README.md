@@ -2,8 +2,7 @@
 A tiny npm module
 
 ![npm (scoped)](https://img.shields.io/npm/v/@pedroeldiablo/tiny?style=for-the-badge)
-
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@pedroeldiablo/tiny.svg)](https://www.npmjs.com/package/@pedroeldiablo/tiny)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@pedroeldiablo/tiny/2.0.0?style=for-the-badge)
 
 Removes all spaces from a string.
 
